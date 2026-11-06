@@ -64,6 +64,7 @@ npm run dev
 
 Project Structure
 
+```
 src/
 ├── components/
 │   └── SummaryCard.tsx
@@ -71,6 +72,7 @@ src/
 ├── inventory.ts
 ├── index.css
 └── main.tsx
+```
 
 Project Status
 
